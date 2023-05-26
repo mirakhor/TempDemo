@@ -10,6 +10,7 @@ package tempdemo;
  */
 public class TempDemo {
     //comment aded for fetch and merge
+    //some other commentswere added to the code
     /**
      * @param args the command line arguments
      */
